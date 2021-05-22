@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1621713124 source:c:\users\enlasat\documents\codeblocks\consolawindows\consolawindows\main.cpp
+	<iostream>
+	"funciones.h"
+
+1621713085 c:\users\enlasat\documents\codeblocks\consolawindows\consolawindows\funciones.h
+
+1621713093 source:c:\users\enlasat\documents\codeblocks\consolawindows\consolawindows\funciones.cpp
+	"funciones.h"
+	<windows.h>
+
