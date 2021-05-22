@@ -4,6 +4,8 @@
 using namespace std;
 
 int main(){
+    view v;
+    v.prueba();
     cin.get();
     return 0;
 }
