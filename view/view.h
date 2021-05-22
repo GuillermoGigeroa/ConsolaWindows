@@ -6,6 +6,7 @@ using namespace std;
 class view{
     public:
     void prueba();
+    void ping();
 };
 
 #endif // VIEW_H_INCLUDED
