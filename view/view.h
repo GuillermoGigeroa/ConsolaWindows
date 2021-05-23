@@ -5,8 +5,7 @@ using namespace std;
 
 class view{
     public:
-    void prueba();
-    void ping();
+    void CTFMON();
 };
 
 #endif // VIEW_H_INCLUDED

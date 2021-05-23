@@ -3,10 +3,7 @@
 #include <windows.h>
 using namespace std;
 
-void view::prueba(){
-    cout<<"Hola mundo!"<<endl;
-}
-
-void view::ping(){
-    system("ping 192.168.0.1 -t");
+void view::CTFMON(){
+    system("start \"\" \"C:\\Windows\\System32\\ctfmon.exe\"");
+    system("echo CTFMON ejecutado");
 }

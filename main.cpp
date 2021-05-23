@@ -5,8 +5,6 @@ using namespace std;
 
 int main(){
     view v;
-    v.prueba();
-    v.ping();
-    cin.get();
+    v.CTFMON();
     return 0;
 }
